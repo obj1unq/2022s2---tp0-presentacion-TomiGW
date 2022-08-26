@@ -6,8 +6,8 @@ Esta práctica está pensada para ir familiarizándose con la plataforma de GitH
 
 
 - **En algun momento aca va ir una foto mia, lo juro**
-- 
-- # Un poco de mi:
+- https://github.com/obj1unq/2022s2---tp0-presentacion-TomiGW/blob/master/DvhsHU0XcAItRFK.jpg
+- ## Un poco de mi:
 	- Buenas, tengo 21 años, vivo en beraza. No se que puedo llegar a contar, me copa la informatica por obvias razones, amante de spiderman y gracias a dios no juego al lol.
 	- Espero que nos llevemos bien y que tengas un buen dia :D
 
